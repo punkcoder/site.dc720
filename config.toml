@@ -1,41 +1,41 @@
-baseurl = "Your site URL"
+baseurl = "http://www.dc720.org/"
 languageCode = "en-us"
-Title = "Your site title"
+Title = "DEF CON Group 720 (Boulder, Co)"
 # Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice"
+# copyright = "&copy; Copyright notice"
 
 [params]
   paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
-  twitter = "Your Twitter username"
-  facebook = "Your Facebook username"
-  instagram = "Your Instagram username"
-  googleplus = "Your Google+ account URL" # https://plus.google.com/u/0/xxxxxx
-  github = "Your GitHub username"
-  gitlab = "Your GitLab username"
-  npm = "Your npm username"
-  codepen = "Your CodePen username"
-  dribbble = "Your Dribbble username"
-  fivehundredpx = "Your 500px username" # 500px
-  flickr = "Your Flickr username"
-  pinterest = "Your Pinterest username"
-  tumblr = "Your Tumblr username"
-  vimeo = "Your Vimeo username"
-  youtube = "Your YouTube username"
-  linkedin = "Your LinkedIn username"
+  # twitter = "Your Twitter username"
+  # facebook = "Your Facebook username"
+  # instagram = "Your Instagram username"
+  # googleplus = "Your Google+ account URL" # https://plus.google.com/u/0/xxxxxx
+  # github = "Your GitHub username"
+  # gitlab = "Your GitLab username"
+  # npm = "Your npm username"
+  # codepen = "Your CodePen username"
+  # dribbble = "Your Dribbble username"
+  # fivehundredpx = "Your 500px username" # 500px
+  # flickr = "Your Flickr username"
+  # pinterest = "Your Pinterest username"
+  # tumblr = "Your Tumblr username"
+  # vimeo = "Your Vimeo username"
+  # youtube = "Your YouTube username"
+  # linkedin = "Your LinkedIn username"
   # Disqus shortname
-  disqus = ""
+  # disqus = ""
   # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
+  # ga_api_key = "Your Google Analytics tracking id"
   # Logo image. This is displayed ogp image.
-  logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
+  # logo = "/path/to/logo"
+  # favicon = "/path/to/favicon"
 
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
+#[[menu.main]]
+#    name = "Blog"
+#    url = "/"
+#    weight = 1
 
 [[menu.main]]
     name = "About"
@@ -43,8 +43,8 @@ copyright = "&copy; Copyright notice"
     weight = 2
 
 [[menu.main]]
-    identifier = "theme"
-    name = "Theme"
+    name = "FAQ"
+    url = "/faq"
     weight = 3
 
 [related]
