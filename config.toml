@@ -2,7 +2,7 @@ baseurl = "http://www.dc720.org/"
 languageCode = "en-us"
 Title = "DEF CON Group 720 (Boulder, Co)"
 # Copyright notice. This is displayer in the footer.
-# copyright = "&copy; Copyright notice"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
 
 [params]
   paginate = 10
@@ -40,6 +40,11 @@ Title = "DEF CON Group 720 (Boulder, Co)"
 [[menu.main]]
     name = "About"
     url = "/about"
+    weight = 1
+
+[[menu.main]]
+    name = "Code of Conduct"
+    url = "/codeofconduct"
     weight = 2
 
 [[menu.main]]
