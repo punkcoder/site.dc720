@@ -32,10 +32,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   # logo = "/path/to/logo"
   # favicon = "/path/to/favicon"
 
-#[[menu.main]]
-#    name = "Blog"
-#    url = "/"
-#    weight = 1
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
     name = "About"
