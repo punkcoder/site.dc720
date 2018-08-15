@@ -40,17 +40,22 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 1
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
 
 [[menu.main]]
     name = "Code of Conduct"
     url = "/codeofconduct"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
     name = "FAQ"
     url = "/faq"
-    weight = 3
+    weight = 5
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
