@@ -24,6 +24,8 @@ Agenda:
 
 * Establishing a quorum
 * Exploring topics
+* Establishing Meeting Frequency
+* Locations to Meet
 * Community Outreach
 * Other topics of Concern
 
