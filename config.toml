@@ -62,6 +62,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     url = "/faq"
     weight = 6
 
+[[menu.main]]
+    name = "Topics"
+    url = "/topics"
+    weight = 7
+
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
   threshold = 80
