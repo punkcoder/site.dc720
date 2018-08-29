@@ -11,11 +11,11 @@ To get your items added to this list please either do a pull request to the site
 * Defcon Lore
 * Ham Radio
 * Soldering
-* 
 
 # Available
 
-* Web Application Penetration Testing (punkcoder)
+* Using the ZAP attack proxy (punkcoder)
+* Using hugo to stand up safe sites quick (punkcoder)
 
 # Possible Workshops
 
@@ -23,3 +23,8 @@ To get your items added to this list please either do a pull request to the site
 * Hack Yourself Everyone Else Is (punkdoer) (1hr)
 
 # Community Outreach
+
+* How to remain safe online
+* Privacy in 2018
+* How to make email more secure
+* Toy Modification (currently have a reach-out to Denhac)
