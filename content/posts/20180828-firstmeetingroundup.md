@@ -18,7 +18,9 @@ and all of the members showing interest in absentia.  We had a good time talking
 through some interesting topics as well as some good outreach projects.
 
 For those interested in the community but were unable to make it feel free to
-join our slack chanel: [boulderinfosec.slack.com](http://boulderinfosec.slack.com)
+join our slack chanel:
+[boulderinfosec.slack.com](http://boulderinfosec.slack.com), reach out to
+info@dc720.org for invite everyone gets one.
 
 # Housekeeping
 
