@@ -16,6 +16,7 @@ To get your items added to this list please either do a pull request to the site
 
 * Using the ZAP attack proxy (punkcoder)
 * Using hugo to stand up safe sites quick (punkcoder)
+* Setting up KALI
 
 # Possible Workshops
 
