@@ -22,6 +22,10 @@ To get your items added to this list please either do a pull request to the site
 * Offensive Security for Developers (punkcoder) (8hr)
 * Hack Yourself Everyone Else Is (punkdoer) (1hr)
 
+# Activities
+
+* Lockpicking (October)
+
 # Community Outreach
 
 * How to remain safe online
