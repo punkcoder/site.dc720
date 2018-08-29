@@ -20,7 +20,7 @@ To get your items added to this list please either do a pull request to the site
 # Possible Workshops
 
 * Offensive Security for Developers (punkcoder) (8hr)
-* Hack Yourself Everyone Else Is (punkdoer) (1hr)
+* Hack Yourself Everyone Else Is (punkcoder) (1hr)
 
 # Activities
 
