@@ -10,6 +10,8 @@ To get your items added to this list please either do a pull request to the site
 * Malware Analysis Writeups
 * Defcon Lore
 * Ham Radio
+* Soldering
+* 
 
 # Available
 
