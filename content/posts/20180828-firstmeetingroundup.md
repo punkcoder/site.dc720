@@ -33,6 +33,7 @@ Tentative Room Location:
 
 ```
 Flagstaff Room: 6:00pm to 8:00pm Thursday, Sep 27 2018
+Address: 1001 Arapahoe Ave, Boulder, CO 80302
 
 The current format will be as follows (we are trying somethings out):
 
