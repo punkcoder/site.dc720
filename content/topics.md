@@ -15,11 +15,22 @@ To get your items added to this list please either do a pull request to the site
 
 # Available
 
-* Web Application Penetration Testing (punkcoder)
+* Using the ZAP attack proxy (punkcoder)
+* Using hugo to stand up safe sites quick (punkcoder)
+* Setting up KALI
 
 # Possible Workshops
 
 * Offensive Security for Developers (punkcoder) (8hr)
-* Hack Yourself Everyone Else Is (punkdoer) (1hr)
+* Hack Yourself Everyone Else Is (punkcoder) (1hr)
+
+# Activities
+
+* Lockpicking (October)
 
 # Community Outreach
+
+* How to remain safe online
+* Privacy in 2018
+* How to make email more secure
+* Toy Modification (currently have a reach-out to Denhac)

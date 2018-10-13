@@ -20,7 +20,7 @@ through some interesting topics as well as some good outreach projects.
 For those interested in the community but were unable to make it feel free to
 join our slack chanel:
 [boulderinfosec.slack.com](http://boulderinfosec.slack.com), reach out to
-info@dc720.org or [link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTZjNDY0NmJkZjE3ZGRkMTU0Y2Q2YWRiYTJjN2NjMjMzZGU3MWIwMGQ0OWRjYTQ5YWI5MzcxYmYzNWY5NzkwZjg)for invite everyone gets one.
+info@dc720.org or [link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTZjNDY0NmJkZjE3ZGRkMTU0Y2Q2YWRiYTJjN2NjMjMzZGU3MWIwMGQ0OWRjYTQ5YWI5MzcxYmYzNWY5NzkwZjg) for invite  everyone gets one.
 
 # Housekeeping
 
@@ -40,7 +40,7 @@ Address: 1001 Arapahoe Ave, Boulder, CO 80302
 The current format will be as follows (we are trying somethings out):
 
 * 2-3 15min presentations on various topics (feel free to suggest some)
-* Followed by activity time (badge hacking, ctfs, etc.)
+* Followed by activity time -> Previous Defcon Badge hacking (If you have any bring them along)
 * Food and Drinks to follow the meeting (suggestions??)
 ```
 
