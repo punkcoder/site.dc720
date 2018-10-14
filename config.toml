@@ -67,6 +67,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     url = "/topics"
     weight = 7
 
+[[menu.main]]
+    name = "Meeting Notes"
+    url = "/meetings"
+    weight = 6
+
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
   threshold = 80

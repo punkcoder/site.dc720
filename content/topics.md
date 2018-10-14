@@ -7,11 +7,15 @@ To get your items added to this list please either do a pull request to the site
 
 # Request
 
-* Malware Analysis Writeups
-* Defcon Lore
 * Ham Radio
 * Soldering
 * Docker for Security
+* Crypto
+* Malware Analysis Writeups
+* Defcon Lore
+* 3d Printing
+* Hardware hacking
+* CTF 
 
 # Available
 
