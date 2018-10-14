@@ -11,8 +11,9 @@ categories = [
 +++
 
 Yet another very successful meeting of DC720.  This time we had it set to do a
-hacking night with badges and because of all of the out pouring of badges we never
-really got around to the hacking part. With 13 members in attendance we are looking forward to our next meeting in October
+hacking night with badges and because of all of the out pouring of badges we
+never really got around to the hacking part. With 13 members in attendance we
+are looking forward to our next meeting in November (details below)
 
 ![Badges](/img/IMG_1173.jpg)
 
