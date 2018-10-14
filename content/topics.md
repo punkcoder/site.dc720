@@ -9,6 +9,7 @@ To get your items added to this list please either do a pull request to the site
 
 * Ham Radio
 * Soldering
+* Docker for Security
 * Crypto
 * Malware Analysis Writeups
 * Defcon Lore
@@ -20,11 +21,16 @@ To get your items added to this list please either do a pull request to the site
 
 * Using the ZAP attack proxy (punkcoder)
 * Using hugo to stand up safe sites quick (punkcoder)
+* Setting up KALI
 
 # Possible Workshops
 
 * Offensive Security for Developers (punkcoder) (8hr)
-* Hack Yourself Everyone Else Is (punkdoer) (1hr)
+* Hack Yourself Everyone Else Is (punkcoder) (1hr)
+
+# Activities
+
+* Lockpicking (October)
 
 # Community Outreach
 
