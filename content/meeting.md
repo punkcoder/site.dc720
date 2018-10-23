@@ -1,6 +1,6 @@
 +++
 title = "DC720 - Next Meeting"
-date = "2018-08-23"
+date = "2018-10-23"
 +++
 
 Flagstaff Room: 6:00pm to 8:00pm Tuesday, Nov 6 2018 (first floor next to the elevator)
