@@ -23,7 +23,9 @@ meeting and other showed up...
 
 ## Meetings
 
-We are still figuring this out. (PR to fix this section)
+Are meetings are currently controlled by the availability for space at the
+Boulder Public Library.  We tend to focus around Tuesdays or Thursdays, check
+the site for more infromation.
 
 ## Areas of Special Interest
 
