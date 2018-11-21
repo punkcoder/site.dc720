@@ -30,8 +30,6 @@ To get your items added to this list please either do a pull request to the site
 
 # Activities
 
-* Lockpicking (October)
-
 # Community Outreach
 
 * How to remain safe online
