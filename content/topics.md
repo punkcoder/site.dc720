@@ -36,3 +36,4 @@ To get your items added to this list please either do a pull request to the site
 * Privacy in 2018
 * How to make email more secure
 * Toy Modification (currently have a reach-out to Denhac)
+* CSWeek 2019

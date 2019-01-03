@@ -1,5 +1,5 @@
 +++
-title = "Badge Night"
+title = "Lockpicking Night"
 description = ""
 tags = [
     "meetings",
@@ -9,8 +9,6 @@ categories = [
     "meetings",
 ]
 +++
-
-# Lockpicking
 
 Another great night of Hacker Shenanigans working on lock picking, we all had a
 good time passing around locks and talking over the specifics.  Almost all of
