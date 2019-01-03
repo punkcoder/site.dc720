@@ -53,7 +53,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     weight = 4
 
 [[menu.main]]
-    name = "Code of Conduct"
+    name = "Conduct"
     url = "/codeofconduct"
     weight = 5
 
@@ -66,6 +66,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "Topics"
     url = "/topics"
     weight = 7
+
+[[menu.main]]
+    name = "Slack"
+    url = "/slack"
+    weight = 8
     
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
