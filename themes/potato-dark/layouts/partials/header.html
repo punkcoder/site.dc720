@@ -6,6 +6,7 @@
   {{ partial "svgpack-sprite.html" . }}
   <header class="l-header">
     {{ partial "menu.html" . }}
+    <img src="img/1x1.png" />
     {{ if .IsPage }}
     <p class="c-title p-title"><a href="{{ .Site.BaseURL }}" class="p-title__link">{{ .Site.Title }}</a></p>
     {{ else }}

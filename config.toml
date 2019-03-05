@@ -1,6 +1,7 @@
 baseurl = "https://www.dc720.org"
 languageCode = "en-us"
 Title = "DEF CON Group 720 (Boulder, Co)"
+theme = "potato-dark"
 # Copyright notice. This is displayer in the footer.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, Credit where credit is due... the Potato-Dark theme (original theme before modifications) was created by surajmandalcell @ https://github.com/surajmandalcell/potato-dark"
 
