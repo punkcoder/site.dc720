@@ -15,7 +15,8 @@ To get your items added to this list please either do a pull request to the site
 * Defcon Lore
 * 3d Printing
 * Hardware hacking
-* CTF 
+* CTF
+* Shodan.io
 
 # Available
 
