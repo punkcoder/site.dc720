@@ -7,10 +7,11 @@ date = "2019-01-02"
 
 * Arapahoe Room: 6:00pm - 8:00pm, Tuesday, Apr 9 2019 - CTF
 * Flatirons Room: 6:00pm - 8:00pm, Tuesday, May 7 2019
-* Flagstaff Room: 6:00pm - 8:00pm, Tuesday, Jun 4 2019 - Malware Analysis
-* Arapahoe Room: 6:00pm - 8:00pm, Tuesday, Jul 2 2019
+* Rule4 Office: 6:00pm - 8:00pm, Tuesday, Jun 4 2019 - Malware Analysis
+* Rule4 Office: 6:00pm - 8:00pm, Tuesday, Jul 2 2019
 
-Meetings must conclude 10 minutes before the facility closing time. 
+Rule4 is kind enough to offer us a fantastic meeting space located at Address:
+3002 Bluff St Suite 100, Boulder, CO 80301
 
 The current format will be as follows (we are trying somethings out):
 
