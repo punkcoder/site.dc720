@@ -6,7 +6,7 @@ date = "2019-01-02"
 # Upcoming Meetings
 
 * Rule4 Office: 6:00pm - 8:00pm, Tuesday, Oct 1, 2019
-* Rule4 Office: 6:00pm - 8:00pm, Tuesday, Nov 4, 2019
+* Rule4 Office: 6:00pm - 8:00pm, Tuesday, Nov 5, 2019
 * Rule4 Office: 6:00pm - 8:00pm, Tuesday, Dec 3, 2019
 
 Rule4 is kind enough to offer us a fantastic meeting space located at Address:
