@@ -5,7 +5,7 @@ date = "2019-01-02"
 
 The main method of organizing for this group is through the boulder infosec slack
 
-[Invitation Link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTZjNDY0NmJkZjE3ZGRkMTU0Y2Q2YWRiYTJjN2NjMjMzZGU3MWIwMGQ0OWRjYTQ5YWI5MzcxYmYzNWY5NzkwZjg)
+[Invitation Link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTI1NmZlYjk5MmE0ZDAxZThkMzExMmVkYTMzODQ0MzEyY2QxYzk4ZjdjOWQzNTNiZTVmMWFkNTQ1YTUzOTA2M2M)
 
 [Slack Access](https://boulderinfosec.slack.com/)
 
