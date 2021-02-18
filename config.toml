@@ -8,7 +8,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 [params]
   paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
-  # footer
+  ## footer
   # twitter = "Your Twitter username"
   # facebook = "Your Facebook username"
   # instagram = "Your Instagram username"
